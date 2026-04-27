@@ -10,3 +10,7 @@ make
 
 # Additional Notes
 Работа с текстовыми файлами на C
+
+## Report
+
+[Скачать отчет](https://disk.yandex.by/i/G0Pbj9obKq1TYA)
